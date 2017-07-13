@@ -8,4 +8,3 @@ menu: main
 # Summer 2016
 
 * [Biomedical Ethics](./biomed)
-* [Theory and Reality](./theory_reality)

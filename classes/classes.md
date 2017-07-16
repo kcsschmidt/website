@@ -5,6 +5,6 @@ permalink: /classes/
 menu: main
 ---
 
-# Summer 2016
+# Summer 2017
 
 * [Biomedical Ethics](./biomed)
